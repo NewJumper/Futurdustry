@@ -1,0 +1,8 @@
+{
+    "name": "Steel",
+    "description": "Used in ",
+    "color": "#8e9097",
+    "research": {
+        "parent": "silicon"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Glass",
+    "description": "Used in ",
+    "color": "#b1d5e3",
+    "research": {
+        "parent": "sand"
+    }
+}

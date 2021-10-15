@@ -1,0 +1,23 @@
+{
+    "name": "Blast Conveyor",
+    "type": "Conveyor",
+    "description" : "Equivalent to the Armored Conveyor, but transports items faster.",
+    "health": 180,
+    "speed": 0.15,
+    "requirements": [
+        {
+            "item": "blast-steel",
+            "amount": 1
+        },
+        {
+            "item": "magnesium",
+            "amount": 1
+        },
+        {
+            "item": "thorium",
+            "amount": 1
+        }
+    ],
+    "category": "distribution",
+    "research": "armored-conveyor"
+}

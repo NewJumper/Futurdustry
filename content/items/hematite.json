@@ -1,0 +1,10 @@
+{
+    "name": "Hematite",
+    "description": "Used in ",
+    "color": "#aa7100",
+    "flammability": 0.3,
+    "hardness": 4,
+    "research": {
+        "parent": "silicon"
+    }
+}

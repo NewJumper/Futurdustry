@@ -1,8 +1,0 @@
-name: Hematite
-description: Can be used to enhance certain metals. Also used to build walls and conveyors.
-color: edb600
-type: material
-explosiveness: 0
-flammability: 0
-radioactivity: 0
-cost: 1

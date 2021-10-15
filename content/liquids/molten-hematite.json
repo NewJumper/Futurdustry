@@ -1,0 +1,12 @@
+{
+    "name": "Molten Hematite",
+    "description": "Used as/for (choose one)",
+    "color": "#d4920f",
+    "flammability": 0.3,
+    "temperature": 1,
+    "heatCapacity": 0,
+    "viscosity": 0.8,
+    "research": {
+        "parent": "hematite"
+    }
+}

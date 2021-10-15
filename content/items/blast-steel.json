@@ -1,0 +1,16 @@
+{
+    "name": "Blast Steel",
+    "description": "Used in ",
+    "color": "#c85c51",
+    "explosiveness": 1.7,
+    "flammability": 0.4,
+    "research": {
+        "parent": "blast-compound",
+        "requirements": [
+            {
+                "item": "steel",
+                "amount": 20
+            }
+        ]
+    }
+}

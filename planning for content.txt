@@ -1,0 +1,31 @@
+Files in order:
+items       -   done
+blocks
+mechs
+liquids
+units
+zones
+
+- items:
+    -able to be created in machines
+        glass                       - *MADE FROM SAND, COAL, AND SILICON IN SMELTER*
+        sermium                     - *MADE FROM PLATINUM, THORIUM, AND LEAD DUST IN TRANSFORMER*
+        hematite                    - *MADE FORM IRON, PYRATITE, AND COAL IN TRANSFORMER*
+        steel                       - *MADE FROM IRON AND COAL IN SMELTER*
+        blast steel                 - *MADE FROM STEEL, PYRATITE, AND BLAST COMPOUND IN STEEL BLASTER AND SERMIUM*
+
+-blocks:
+     -conveyors
+        Blast Conveyor      - *MADE FORM BLAST STEEL, GRAPHITE, AND GOLD BY CORE*
+     -drills
+        Omni Drill          - *MADE FROM STEEL, THORIUM, AND MAGNETITE BY CORE*   *SECOND BEST DRILL OUT THERE*
+     -smeltery; crafting; enhancing
+        Smelter             - *MADE FROM IRON, GRAPHITE, AND LEAD BY CORE*
+        Steel Blaster       - *MADE FROM TITANIUM, PLATINUM, AND PLATINUM DUST BY CORE*
+        Transformer         - *MADE FROM TITANIUM, PLATINUM, LEAD, AND GOLD BY CORE*
+        Uranium Charger     - *MADE FORM TITANIUM, HEMATITE, GOLD DUST, AND GLASS BY CORE*
+        Phase Fabric Charger    -*MADE FROM TITANIUM, HEMATITE, PLATINUM DUST, AND GLASS BY CORE*
+     -power supplers
+        Nucler Power Plant
+     -walls
+        Hematite Wall       - *MADE FROM HEMATITE BY CORE*

@@ -1,0 +1,11 @@
+{
+    "name": "Magnesium",
+    "description": "Used in ",
+    "color": "#e3e4e4",
+    "charge": 0.4,
+    "hardness": 5,
+    "cost": 2.5,
+    "research": {
+        "parent": "thorium"
+    }
+}

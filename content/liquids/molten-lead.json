@@ -1,0 +1,11 @@
+{
+    "name": "Molten Lead",
+    "description": "Used as/for (choose one)",
+    "color": "#a575d9",
+    "temperature": 1,
+    "heatCapacity": 0,
+    "viscosity": 0.75,
+    "research": {
+        "parent": "lead"
+    }
+}
