@@ -1,5 +1,5 @@
 {
-    "name": "Ultra Battery",
+    "name": "Huge Battery",
     "type": "battery",
     "description": "Stores power in times of surplus energy. Much higher capacity than a large battery within the same space.",
     "health": 360,
