@@ -9,11 +9,11 @@
     "leaks": false,
     "requirements": [
         {
-            "item": "metaglass",
+            "item": "plastanium",
             "amount": 1
         },
         {
-            "item": "plastanium",
+            "item": "glass",
             "amount": 1
         },
         {
