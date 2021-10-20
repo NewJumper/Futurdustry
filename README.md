@@ -2,7 +2,13 @@
 ###### By NewJumper
 
 ---
-# Content:
+ What does [Futurdustry](https://github.com/NewJumper/Futurdustry#mod-contents) include.
+ 
+ The hidden [lore](https://github.com/NewJumper/Futurdustry#storyline) behind the planet of Heedir.
+ 
+ For any [issues](https://github.com/NewJumper/Futurdustry#issues).
+ 
+# Mod Contents:
 ## Items:
 **Blast Steel** - Used for very powerful combustion reactions, expecially in the blast reactor. Research to unlock the blast conveyor and conduit.
 
