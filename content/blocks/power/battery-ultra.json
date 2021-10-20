@@ -19,6 +19,10 @@
         {
             "item": "magnesium",
             "amount": 30
+        },
+        {
+            "item": "glass".
+            "amount": 10
         }
     ],
     "category": "power",
