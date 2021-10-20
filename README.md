@@ -28,7 +28,11 @@
 **Molten Lead** - `in progress`
 
 ## Blocks:
-adwafgdfsdda
+**Blast Conveyor and Conduit** - The next level up from the armored conveyor and the plated conduit.
+
+**Core: Kernel** - A 6x6 core with upgraded health, storage, and unit.
+
+**Omni Drill** - Much similar to the airblast drill, but drills tremendously faster.
 
 ## Status Effects:
 **Polarized** - `in progress`
@@ -37,7 +41,7 @@ adwafgdfsdda
 # Storyline:
 **River Pass** - Upon approaching the planet of Heedir, you spot a field with a river passing through. You decide this as the perfect spot to start your expedition and make quick work of landing your spacepod and core: Kernel. To your surprise, in a couple of minutes, you are approached by enemies who seem to be drawn towards your core. [add more]
 
-**Scatterlands** - [player learns about enemy name and backstory and stuff]
+**Evergreen Ice Peaks** - [player learns about enemy name and backstory and stuff]
 
 **Volcanic Disruption** - [a 1v1, player vs enemy]
 
@@ -45,4 +49,4 @@ adwafgdfsdda
 
 ---
 # Issues:
-Create a new issue with the appropriate label and I'll get to it as soon as I can! DISCLAIMER: This mod is still in beta, so there will be bugs!
+Create a new issue with the appropriate label and I'll get to it as soon as I can! DISCLAIMER: This mod is still in beta, so there will be bugs and a few things missing!
