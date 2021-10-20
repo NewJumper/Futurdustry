@@ -43,5 +43,6 @@ adwafgdfsdda
 
 **The Wasteland** - A large barren land with little to no resources and a small pool of water. Dangerous enemies once roamed these lands and now the [enemy name] [does stuff]
 
+---
 # Issues:
 Create a new issue with the appropriate label and I'll get to it as soon as I can! DISCLAIMER: This mod is still in beta, so there will be bugs!
