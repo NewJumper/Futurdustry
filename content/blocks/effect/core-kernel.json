@@ -1,0 +1,34 @@
+{
+    "name": "Core: Kernel",
+    "type": "CoreBlock",
+    "description": "Core of the base. Stores extensive amounts of resources.",
+    "health": 8600,
+    "size": 6,
+    "itemCapacity": 16000,
+    "unitType": "delta",
+    "unitCapModifier": 32,
+    "requirements": [
+        {
+            "item": "copper",
+            "amount": 12000
+        },
+        {
+            "item": "lead",
+            "amount": 12000
+        },
+        {
+            "item": "silicon",
+            "amount": 7500
+        },
+        {
+            "item": "thorium",
+            "amount": 6000
+        },
+        {
+            "item": "sermium",
+            "amount": 6000
+        }
+    ],
+    "category": "effect",
+    "research": "core-nucleus"
+}

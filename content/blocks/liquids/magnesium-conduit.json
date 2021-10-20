@@ -1,0 +1,25 @@
+{
+    "name": "Magnesium Conduit",
+    "type": "conduit",
+    "description": "Moves liquids forward. Faster liquid transport while also accepting input from the sides. Does not leak.",
+    "health": 250,
+    "transportTime": 2,
+    "liquidPressure": 2,
+    "liquidCapacity": 20,
+    "requirements": [
+        {
+            "item": "metaglass",
+            "amount": 1
+        },
+        {
+            "item": "plastanium",
+            "amount": 1
+        },
+        {
+            "item": "magnesium",
+            "amount": 2
+        }
+    ],
+    "category": "liquid",
+    "research": "plated-conduit"
+}

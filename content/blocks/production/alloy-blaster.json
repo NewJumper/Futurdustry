@@ -1,0 +1,49 @@
+{
+    "name": "Alloy Blaster",
+    "type": "GenericCrafter",
+    "description": "Manufactures blast steel from metaglass, steel, and blast compound.",
+    "health": 360,
+    "size": 3,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": false,
+    "outputItem": {
+        "item": "steel",
+        "amount": 1
+    },
+    "craftTime": 90,
+    "craftEffect": "smeltsmoke",
+    "consumes": {
+        "power": 200,
+        "items": [
+            {
+                "item": "metaglass",
+                "amount": 4
+            },
+            {
+                "item": "steel",
+                "amount": 4
+            },
+            {
+                "item": "blast-compound",
+                "amount": 2
+            }
+        ]
+    },
+    "requirements": [
+        {
+            "item": "lead",
+            "amount": 70
+        },
+        {
+            "item": "steel",
+            "amount": 50
+        },
+        {
+            "item": "glass",
+            "amount": 30
+        }
+    ],
+    "category": "crafting",
+    "research": "steel-mixer"
+}

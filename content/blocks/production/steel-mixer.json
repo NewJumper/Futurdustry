@@ -1,0 +1,41 @@
+{
+    "name": "Steel Mixer",
+    "type": "GenericCrafter",
+    "description": "Mixes silicon and coal to produce steel.",
+    "health": 160,
+    "size": 2,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": false,
+    "outputItem": {
+        "item": "steel",
+        "amount": 1
+    },
+    "craftTime": 85,
+    "craftEffect": "smeltsmoke",
+    "consumes": {
+        "power": 32,
+        "items": [
+            {
+                "item": "coal",
+                "amount": 1
+            },
+            {
+                "item": "silicon",
+                "amount": 2
+            }
+        ]
+    },
+    "requirements": [
+        {
+            "item": "lead",
+            "amount": 40
+        },
+        {
+            "item": "silicon",
+            "amount": 25
+        }
+    ],
+    "category": "crafting",
+    "research": "silicon-crucible"
+}

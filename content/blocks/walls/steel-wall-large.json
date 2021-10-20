@@ -1,0 +1,17 @@
+{
+    "name": "Large Steel Wall",
+    "type": "Wall",
+    "description": "Protects structures from projectiles, deflects most bullets upon impact.",
+    "health": 3400,
+    "size": 2,
+    "chanceDeflect": 50,
+    "flashHit": true,
+    "requirements": [
+        {
+            "item": "steel",
+            "amount": 24
+        }
+    ],
+    "category": "defense",
+    "research": "steel-wall"
+}

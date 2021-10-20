@@ -1,0 +1,17 @@
+{
+    "name": "Steel Wall",
+    "type": "Wall",
+    "description": "Protects structures from projectiles, deflects most bullets upon impact.",
+    "health": 850,
+    "size": 1,
+    "chanceDeflect": 50,
+    "flashHit": true,
+    "requirements": [
+        {
+            "item": "steel",
+            "amount": 6
+        }
+    ],
+    "category": "defense",
+    "research": "thorium-wall-large"
+}

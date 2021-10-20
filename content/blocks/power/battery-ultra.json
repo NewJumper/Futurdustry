@@ -1,0 +1,26 @@
+{
+    "name": "Ultra Battery",
+    "type": "battery",
+    "description": "Stores power in times of surplus energy. Much higher capacity than a large battery within the same space.",
+    "health": 360,
+    "size": 3,
+    "consumes": {
+        "powerBuffered": 100000
+    },
+    "requirements": [
+        {
+            "item": "titanium",
+            "amount": 60
+        },
+        {
+            "item": "hematite",
+            "amount": 30
+        },
+        {
+            "item": "magnesium",
+            "amount": 30
+        }
+    ],
+    "category": "power",
+    "research": "battery-large"
+}

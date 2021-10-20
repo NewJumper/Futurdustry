@@ -1,0 +1,21 @@
+{
+    "name": "Sermium Wall",
+    "type": "Wall",
+    "description": "Protects structures from projectiles, while also absorbing electricity.",
+    "health": 900,
+    "size": 1,
+    "chanceDeflect": 50,
+    "flashHit": true,
+    "requirements": [
+        {
+            "item": "sermium",
+            "amount": 5
+        },
+        {
+            "item": "plastanium",
+            "amount": 2
+        }
+    ],
+    "category": "defense",
+    "research": "surge-wall-large"
+}

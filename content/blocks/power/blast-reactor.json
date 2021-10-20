@@ -1,0 +1,62 @@
+{
+    "name": "Blast Reactor",
+    "type": "NuclearReactor",
+    "description": "Generates tremendous amounts of power. Requires a significant amount of fuel, blast steel, and cooling.",
+    "health": 1400,
+    "size": 5,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "itemCapacity": 10,
+    "liquidCapacity": 40,
+    "powerProduction": 153,
+    "itemDuration": 300,
+    "heating": 0.04,
+    "smokeThreshold": 0.32,
+    "flashThreshold": 0.68,
+    "explosionRadius": 21,
+    "explosionDamage": 7000,
+    "coolantPower": 0.4,
+    "consumes": {
+        "liquids": [
+            {
+                "liquid": "molten-hematite",
+                "amount": 0.4
+            },
+            {
+                "liquid": "cryofluid",
+                "amount": 0.25
+            }
+        ],
+        "items": [
+            {
+                "item": "blast-steel",
+                "amount": 1
+            }
+        ]
+    },
+    "requirements": [
+        {
+            "item": "lead",
+            "amount": 500
+        },
+        {
+            "item": "titanium",
+            "amount": 500
+        },
+        {
+            "item": "silicon",
+            "amount": 350
+        },
+        {
+            "item": "glass",
+            "amount": 300
+        },
+        {
+            "item": "blast-steel",
+            "amount": 200
+        }
+    ],
+    "category": "power",
+    "research": "impact-reactor"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "delta",
+    "type": "flying",
+    "description": "Defends the Kernel core from enemies. Builds structures.",
+    "health": 320,
+    "flying": true,
+    "speed": 4,
+    "rotateSpeed": 21,
+    "drag": 0.05,
+    "accel": 0.12,
+    "commandLimit": 6,
+    "mineTier": 3,
+    "buildSpeed": 1.2,
+    "mineSpeed": 9,
+    "singleTarget": true,
+    "weapons": [
+        {
+            "name": "small-mount-weapon",
+            "reload": 15,
+            "x": 5,
+            "y": 0,
+            "shots": 2,
+            "spacing": 1,
+            "inaccuracy": 2,
+            "shotDelay": 2,
+            "range": 35,
+            "bullet": {
+                "damage": 12,
+                "lifetime": 80,
+                "speed": 10,
+                "buildingDamageMultiplier": 0.01,
+                "homingPower": 0.05
+            }
+        }
+    ]
+}

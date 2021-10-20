@@ -1,0 +1,8 @@
+{
+    "name": "Sermium",
+    "description": "Used in ",
+    "color": "#26c191",
+    "research": {
+        "parent": "plastanium"
+    }
+}

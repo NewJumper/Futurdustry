@@ -1,0 +1,29 @@
+{
+    "name": "Ultra Power Node",
+    "type": "PowerNode",
+    "description": "A top-of-the-line power node with more node connections and farther range.",
+    "health": 360,
+    "size": 3,
+    "laserRange": 20,
+    "maxNodes": 22,
+    "requirements": [
+        {
+            "item": "lead",
+            "amount": 20
+        },
+        {
+            "item": "titanium",
+            "amount": 10
+        },
+        {
+            "item": "silicon",
+            "amount": 6
+        },
+        {
+            "item": "magnesium",
+            "amount": 2
+        }
+    ],
+    "category": "power",
+    "research": "surge-tower"
+}

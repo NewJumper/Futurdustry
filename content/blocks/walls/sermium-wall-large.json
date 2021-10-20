@@ -1,0 +1,21 @@
+{
+    "name": "Large Sermium Wall",
+    "type": "Wall",
+    "description": "Protects structures from projectiles, while also absorbing electricity.",
+    "health": 3600,
+    "size": 2,
+    "insulated": true,
+    "absorbLasers": true,
+    "requirements": [
+        {
+            "item": "sermium",
+            "amount": 20
+        },
+        {
+            "item": "plastanium",
+            "amount": 8
+        }
+    ],
+    "category": "defense",
+    "research": "sermium-wall"
+}
