@@ -2,20 +2,40 @@
 ###### By NewJumper
 
 ---
-Content:
--
-A Mindustry mod, under construction
+# Content:
+## Items:
+**Blast Steel** - Used for very powerful combustion reactions, expecially in the blast reactor. Research to unlock the blast conveyor and conduit.
 
-Mod Content:
--
-The Futurdustry mod includes and features 6 new materials, 2 maps, several machinery, and a new drill and conveyor.
+**Glass** - Used to construct powerful machinery such as the alloy blaster, blast reactor, omni drill, and the ultra battery.
 
-Futurdustry brings these six items into the game: blast steel, glass, hematite, magnesium, sermium, and steel. Some of these items can be collected from the two new zones or from production through new machinery.
+**Hematite** - `in progress`
 
-Discover such machinery by starting off on Volcanic Disruption. You'll need to head in strong and with high tier materials in order to mine magnesium and hematite. These two minerals will help build up better, stronger defenses against the **REDACTED**.
-~ add some more stuff idk ~
+**Magnesium** - Used as a powerful conducter in the ultra battery and power node. 
 
-Good luck player.
+**Sermium** - Used as an insulator, similar to plastanium, for stronger defenses that absorbs power connections and lasers.
+
+**Steel** - `in progress`
+
+## Liquids:
+**Molten Hematite** - Very hot and useful for powering the blast reactor. If burned with blast steel, generates large amounts of power.
+
+**Molten Lead** - `in progress`
+
+## Blocks:
+adwafgdfsdda
+
+## Status Effects:
+**Polarized** - `in progress`
+
+---
+# Storyline:
+**River Pass** - Upon approaching the planet of Heedir, you spot a field with a river passing through. You decide this as the perfect spot to start your expedition and make quick work of landing your spacepod and core: Kernel. To your surprise, in a couple of minutes, you are approached by enemies who seem to be drawn towards your core. [add more]
+
+**Scatterlands** - [player learns about enemy name and backstory and stuff]
+
+**Volcanic Disruption** - [a 1v1, player vs enemy]
+
+**The Wasteland** - A large barren land with little to no resources and a small pool of water. Dangerous enemies once roamed these lands and now the [enemy name] [does stuff]
 
 Issues:
 -
