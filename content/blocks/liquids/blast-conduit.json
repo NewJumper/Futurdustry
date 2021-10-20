@@ -1,11 +1,12 @@
 {
-    "name": "Magnesium Conduit",
+    "name": "Blast Conduit",
     "type": "conduit",
     "description": "Moves liquids forward. Faster liquid transport while also accepting input from the sides. Does not leak.",
     "health": 250,
     "transportTime": 2,
     "liquidPressure": 2,
     "liquidCapacity": 20,
+    "leaks": false,
     "requirements": [
         {
             "item": "metaglass",
@@ -16,7 +17,7 @@
             "amount": 1
         },
         {
-            "item": "magnesium",
+            "item": "blast-steel",
             "amount": 2
         }
     ],
