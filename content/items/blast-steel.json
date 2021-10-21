@@ -1,6 +1,6 @@
 {
     "name": "Blast Steel",
-    "description": "Used in ",
+    "description": "Used for very powerful combustion reactions, expecially in the blast reactor. Research to unlock the blast conveyor and conduit.",
     "color": "#c85c51",
     "explosiveness": 1.7,
     "flammability": 0.4,

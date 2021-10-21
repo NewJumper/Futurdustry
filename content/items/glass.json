@@ -1,6 +1,6 @@
 {
     "name": "Glass",
-    "description": "Used in ",
+    "description": "Used to construct powerful machinery such as the alloy blaster, blast reactor, omni drill, and the ultra battery.",
     "color": "#b1d5e3",
     "research": {
         "parent": "sand"

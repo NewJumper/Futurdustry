@@ -16,7 +16,7 @@
 
 **Hematite** - `in progress`
 
-**Magnesium** - Used as a powerful conducter in the ultra battery and power node. 
+**Magnesium** - Used as a powerful conducter in the ultra battery and power node.
 
 **Sermium** - Used as an insulator, similar to plastanium, for stronger defenses that absorbs power connections and lasers.
 
