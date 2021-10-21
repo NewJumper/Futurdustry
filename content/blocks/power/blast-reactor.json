@@ -18,22 +18,19 @@
     "explosionDamage": 7000,
     "coolantPower": 0.4,
     "consumes": {
-        "liquids": [
-            {
-                "liquid": "molten-hematite",
-                "amount": 0.4
-            },
-            {
-                "liquid": "cryofluid",
-                "amount": 0.25
-            }
-        ],
-        "items": [
-            {
-                "item": "blast-steel",
-                "amount": 1
-            }
-        ]
+        "liquid": {
+            "liquid": "cryofluid",
+            "amount": 0.3,
+            "optional": false
+        },
+        "items": {
+            "items": [
+                {
+                    "item": "blast-steel",
+                    "amount": 1
+                }
+            ]
+        }
     },
     "requirements": [
         {

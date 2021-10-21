@@ -4,7 +4,7 @@
     "description": "A top-of-the-line power node with more node connections and farther range.",
     "health": 360,
     "size": 3,
-    "laserRange": 20,
+    "laserRange": 19,
     "maxNodes": 22,
     "requirements": [
         {

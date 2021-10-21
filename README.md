@@ -23,7 +23,7 @@
 **Steel** - `in progress`
 
 ## Liquids:
-**Molten Hematite** - Very hot and useful for powering the blast reactor. If burned with blast steel, generates large amounts of power.
+**Molten Hematite** - Very hot and useful for powering [something - tbd].
 
 **Molten Lead** - `in progress`
 

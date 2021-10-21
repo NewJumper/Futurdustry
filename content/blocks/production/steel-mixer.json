@@ -14,17 +14,19 @@
     "craftTime": 85,
     "craftEffect": "smeltsmoke",
     "consumes": {
-        "power": 32,
-        "items": [
-            {
-                "item": "coal",
-                "amount": 1
-            },
-            {
-                "item": "silicon",
-                "amount": 2
-            }
-        ]
+        "power": 0.53333333333,
+        "items": {
+            "items": [
+                {
+                    "item": "coal",
+                    "amount": 1
+                },
+                {
+                    "item": "silicon",
+                    "amount": 2
+                }
+            ]
+        }
     },
     "requirements": [
         {

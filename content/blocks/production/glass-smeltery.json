@@ -14,17 +14,19 @@
     "craftTime": 85,
     "craftEffect": "smeltsmoke",
     "consumes": {
-        "power": 24,
-        "items": [
-            {
-                "item": "sand",
-                "amount": 1
-            },
-            {
-                "item": "coal",
-                "amount": 1
-            }
-        ]
+        "power": 0.4,
+        "items": {
+            "items": [
+                {
+                    "item": "sand",
+                    "amount": 1
+                },
+                {
+                    "item": "coal",
+                    "amount": 1
+                }
+            ]
+        }
     },
     "requirements": [
         {

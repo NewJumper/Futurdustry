@@ -14,17 +14,19 @@
     "craftTime": 85,
     "craftEffect": "smeltsmoke",
     "consumes": {
-        "power": 32,
-        "items": [
-            {
-                "item": "plastanium",
-                "amount": 3
-            },
-            {
-                "item": "thorium",
-                "amount": 2
-            }
-        ]
+        "power": 0.53333333333,
+        "items": {
+            "items": [
+                {
+                    "item": "plastanium",
+                    "amount": 3
+                },
+                {
+                    "item": "thorium",
+                    "amount": 2
+                }
+            ]
+        }
     },
     "requirements": [
         {
