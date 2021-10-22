@@ -1,4 +1,4 @@
-![Logo](sprites/ui/futurdustry_logo.png)
+![Logo](sprites-override/ui/logo.png)
 ###### By NewJumper
 
 ---
@@ -37,15 +37,19 @@
 ## Status Effects:
 **Polarized** - `in progress`
 
+**Impulsed** - `in progress`
+
 ---
 # Storyline:
-**River Pass** - Upon approaching the planet of Heedir, you spot a field with a river passing through. You decide this as the perfect spot to start your expedition and make quick work of landing your spacepod and core: Kernel. To your surprise, in a couple of minutes, you are approached by enemies who seem to be drawn towards your core. [add more]
+**River Pass** - Hello player, welcome to the planet of Heedir. We have located a landing zone, a field with a wide river passing through, for your core: Kernel. We have spotted some activity there and would like you investigate what is going on. You will start of with basic resource, so you'll have to set up a base and start production of supplies for your stay. Be wary of anything suspiscious, and DO NOT TRUST ANYONE. You are on uncharted territory and we have little to no knowledge of Heedir. Good luck.
 
-**Evergreen Ice Peaks** - [player learns about enemy name and backstory and stuff]
+**Evergreen Ice Peaks** - Good job on neutralizing the enemy at the fields. We did not expect this much resistance. Our satellites have located foreign structures farther up north of your location. We want you to starting heading up north to inspect what these structures are. Be careful of organized enemies, and again, DO NOT TRUST ANYONE. Good luck.
 
-**Volcanic Disruption** - [a 1v1, player vs enemy]
+**Volcanic Disruption** - Those structures seemed to reveal some blueprints about **`REDACTED`** near a volcano. We want you to set up camp and research a brown substance scattered about the place. Until then, we will stop contact. Our base has been infiltrated by an unknown source. It seems to be digitized, but we need you to continue your journey and discovery the-
 
-**The Wasteland** - A large barren land with little to no resources and a small pool of water. Dangerous enemies once roamed these lands and now the [enemy name] [does stuff]
+**The Wasteland** - *You are all alone with no radio contact and little to work with... with..... you lose track of where you are. Who is WE? Why ARE you here. You scan your location to scout out anything for a way to get off this planet. You see nothing but large barren fields stretched for miles with little to no resources and a small pool of water in the distance. Dangerous enemies once roamed these lands and now you can sense them. They are near. You decide it's best to protect what you have and find a way to escape.
+
+*more story to be added in the future* :)
 
 ---
 # Issues:
